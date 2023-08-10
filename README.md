@@ -4,6 +4,7 @@
 
 <img width="1435" alt="스크린샷 2022-12-22 오후 3 58 04" src="https://user-images.githubusercontent.com/99378739/209075961-4d61ce83-c28b-4fca-8c1a-48ef3bb627ad.png">
 
+[git-page 바로가기](https://yj-seol.github.io/)🔗
 
 <br />
 
